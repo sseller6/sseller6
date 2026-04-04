@@ -2,12 +2,12 @@
 
 Hello, GitHub! 👋
 
-I'm Steven, a student at Brigham Young University-Idaho interested in software development. Welcome to my GitHub profile!
+I'm Steven, a graduate from Brigham Young University-Idaho interested in software development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning SQL
-- My goals are to get a full time job in software development so I can support my wife!
+- I'm currently learning how to build websites.
+- I love playing pickleball!
 
 ## Technologies and Tools
 
