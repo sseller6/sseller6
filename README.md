@@ -19,4 +19,4 @@ I'm Steven, a graduate from Brigham Young University-Idaho interested in softwar
 - Here is my [LinkedIn](https://www.linkedin.com/in/steven-sellers-953149158/) profile
 - How to reach me: Email would be best! steven.dijon.sellers@gmail.com
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my repositories and don't hesitate to reach out.
